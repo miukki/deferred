@@ -1,0 +1,20 @@
+{
+  "name": "deferred",
+  "version": "0.0.0",
+  "authors": [
+    "miukki macbook air <miukki@gmail.com>"
+  ],
+  "description": "simple example deferred/promise",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
